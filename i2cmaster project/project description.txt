@@ -1,0 +1,1 @@
+For this project, my goal was to implement a I2C master module. The report word file contains further detail on the project.
